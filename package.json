@@ -7,7 +7,11 @@
   ],
   "homepage": "https://github.com/obscuraworks/baileys",
   "repository": {
-    "url": "https://github.com/obscuraworks/baileys"
+    "type": "git",
+    "url": "https://github.com/obscuraworks/baileys.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "license": "MIT",
   "author": "WhiskeySockets",
